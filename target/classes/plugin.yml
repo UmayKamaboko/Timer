@@ -1,0 +1,10 @@
+name: Timer
+version: '1.12.2'
+main: me.anyachan.timer.timer.Timer
+
+commands :
+  tstart:
+
+  tstop:
+
+  tresume:
